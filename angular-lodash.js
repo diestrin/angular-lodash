@@ -94,7 +94,7 @@
       'contains',
       'countBy',
       'create',
-      'createCallback',
+      'callback',
       'curry',
       'debounce',
       'defaults',
